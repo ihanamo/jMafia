@@ -14,10 +14,6 @@ MafiaGame is an interactive multiplayer game inspired by the popular party game 
 
 ## Installation
 
-To run MafiaGame locally, please ensure that you have the following prerequisites:
-
-- Node.js (v12.0.0 or higher)
-- npm (v6.0.0 or higher)
 
 Follow these steps to set up MafiaGame:
 
@@ -73,11 +69,5 @@ MafiaGame offers several exciting features to enhance your gaming experience:
 - **Role-based gameplay:** Experience the unique abilities and challenges of different roles within the game.
 - **In-game chat:** Communicate with other players through the built-in chat feature.
 
-
-## License
-
-MafiaGame is licensed under the [MIT License](https://github.com/amirerfantim/MafiaGame/blob/main/LICENSE). You are free to use, modify, and distribute the codebase following the terms of this license.
-
----
 
 Thank you for your interest in MafiaGame
